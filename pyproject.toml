@@ -24,9 +24,9 @@ classifiers = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/JayRHa/MicrosoftGraphCLI"
-Repository = "https://github.com/JayRHa/MicrosoftGraphCLI"
-Issues = "https://github.com/JayRHa/MicrosoftGraphCLI/issues"
+Homepage = "https://github.com/JayRHa/microsoft-graph-cli"
+Repository = "https://github.com/JayRHa/microsoft-graph-cli"
+Issues = "https://github.com/JayRHa/microsoft-graph-cli/issues"
 
 [project.scripts]
 msgraph = "microsoft_graph_cli.cli:main"
